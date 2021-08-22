@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     }
+    
     body{
         font-family: 'Poppins', sans-serif;
         background-color: #222;
@@ -36,8 +37,6 @@
     i {
         color: #ff523b;
     }
-
-    
 
     .container{
         max-width:1300px;
@@ -274,7 +273,7 @@
     position: absolute;
     top:70px;
     left:0;
-    background: whitesmoke;
+    background: #555;
     width:100%;
     overflow: hidden;
     transition: max-height 0.5s;
