@@ -62,7 +62,7 @@
     font-size:50px;
     line-height: 60px; 
     margin:25px 0;
-    color: black;
+    color: #ff523b;
     }
     .btn{
         display:inline-block;
@@ -365,6 +365,10 @@
     }
     input:focus{
         outline:none;
+    }
+
+    h1 {
+        color: #ff523b;
     }
     
     .single-product .fa{
